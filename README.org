@@ -1,0 +1,1 @@
+Basics for a swc style lesson on building a python package
